@@ -1,9 +1,9 @@
-<project name="Sailing6" threads="4" pubsub="auto" heartbeat-interval="1" index="pi_EMPTY">
+<project name="Sailing6" threads="4" pubsub="auto" heartbeat-interval="1" index="pi_EMPTY" luaroot="@ESP_PROJECT_OUTPUT@/luaroot">
   <metadata>
-    <meta id="studioUploadedBy">anonymous</meta>
-    <meta id="studioUploaded">1613579512403</meta>
-    <meta id="studioModifiedBy">anonymous</meta>
-    <meta id="studioModified">1613579660434</meta>
+    <meta id="studioUploadedBy">anonymousUser</meta>
+    <meta id="studioUploaded">1709658708272</meta>
+    <meta id="studioModifiedBy">anonymousUser</meta>
+    <meta id="studioModified">1709658782324</meta>
     <meta id="studioTags">tag</meta>
     <meta id="layout">{"cq1":{"Areas_Of_Interest":{"x":-330,"y":-440},"Boat1":{"x":-460,"y":-730},"Boat2":{"x":-225,"y":-725},"Boat3":{"x":-5,"y":-725},"Boat4":{"x":210,"y":-725},"Compute_ID1":{"x":-460,"y":-590},"Compute_ID2":{"x":-225,"y":-590},"Compute_ID3":{"x":-5,"y":-590},"Compute_ID4":{"x":210,"y":-590},"Exclusion_30sec_Pulse":{"x":-250,"y":185},"Filter_Inside_Exclusion_Zone":{"x":-250,"y":-55},"Filter_Speeding_In_Marina":{"x":-30,"y":-55},"Geofence_Area_Check":{"x":-115,"y":-315},"Last_Exclusion_Violation":{"x":-250,"y":70},"Last_Speeding_Event":{"x":-30,"y":70},"Only_Output_Inserts":{"x":-335,"y":-315},"Polar_Chart":{"x":380,"y":-55},"Polar_Colours":{"x":380,"y":70},"RemoveState1":{"x":175,"y":-185},"Retain_30_Minutes":{"x":380,"y":-185},"Retention_30Min":{"x":-145,"y":-185},"Round_Heading_Int32":{"x":380,"y":-315},"Score_DBSCAN":{"x":-475,"y":-40},"Send_Exclusion_Violation_Email":{"x":-250,"y":310},"Send_Speeding_Email":{"x":-30,"y":310},"Speeding":{"x":175,"y":-55},"Speeding_30sec_Pulse":{"x":-30,"y":185},"Train_DBSCAN":{"x":-470,"y":-185},"Union_All_Boats":{"x":-115,"y":-440}}}</meta>
   </metadata>
